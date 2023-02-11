@@ -7,7 +7,6 @@ class Employee {
     }
 }
 let e1 = new Employee()
-// let e2 = new Employee();
 console.log(e1.id);
 console.log(e1.name)
 console.log(e1.email)
