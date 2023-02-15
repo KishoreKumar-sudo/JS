@@ -1,5 +1,4 @@
-//While invoking an function passing another function as an argument
-
+//While invoking an function passing another function as an argument nothing but the callback 
 let sum = (a, b) => {
     return a + b
 }
