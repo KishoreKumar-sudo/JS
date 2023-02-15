@@ -1,3 +1,5 @@
+//While invoking an function passing another function as an argument
+
 let sum = (a, b) => {
     return a + b
 }
