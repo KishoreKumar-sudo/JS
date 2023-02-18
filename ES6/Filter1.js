@@ -8,7 +8,7 @@ let cars = [{ brand: "Maruthi", model: "Swift", color: 'white', price: 1000000 }
 { brand: "Maruthi", model: "ignis", color: 'blue', price: 800000 },
 ]
 let new_Cars = cars.filter((car) => {
-    return car.color != 'white'
-    // return car.color = 'red'
+    // return car.color != 'white'
+    return car.color = 'red'
 })
 console.log(new_Cars)
