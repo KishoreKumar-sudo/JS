@@ -1,5 +1,5 @@
 
-var arr = [ka]
+var arr = []
 
 /* for (a of arr){
     console.log(arr.indexOf(a))
