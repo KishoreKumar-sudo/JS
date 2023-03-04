@@ -1,4 +1,4 @@
-var arr = [JavaKishore, PuppyAvantika, ThupakkiVijay, Teddymimi, ]
+var arr = [JavaKishore, PuppyAvantika, ThupakkiVijay, Teddymimi, PuppyAvantika,]
 
 /* for (a of arr){
     console.log(arr.indexOf(a))
