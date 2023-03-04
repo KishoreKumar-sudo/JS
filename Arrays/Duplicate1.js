@@ -1,4 +1,5 @@
-var arr = [KaththiKishore, PuppyAvantika, ThupakkiVijay, Teddymimi, PuppyAvantika, Teddymimi]
+
+var arr = [ka]
 
 /* for (a of arr){
     console.log(arr.indexOf(a))
@@ -9,8 +10,8 @@ function removeDuplicates() {
     return arr.filter((item, index) => arr.indexOf(item) === index)
 
 }
-// console.log(removeDuplicates(arr))
-// console.log(removeDuplicates(arr).length)
+console.log(removeDuplicates(arr))
+console.log(removeDuplicates(arr).length)
 
 //default method for removing duplicate
 let newArr = [...new Set(arr)]
