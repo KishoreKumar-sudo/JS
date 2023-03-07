@@ -2,7 +2,7 @@ const names = ["rohit", "sky", "pollard", "ishan", "Rohit", "Pollard", "bumrah",
 function removeDuplicate(arr) {
     let newArray =[];
     for (let i = 0; i< arr.length; i++) {
-            if(newArray.includes(arr[i].toLowerCase()))
+            if(!newArray.includes(arr[i].toLowerCase()))
             newArray.push(arr[i].toLowerCase());
     }
     return newArray
