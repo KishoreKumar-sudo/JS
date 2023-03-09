@@ -1,0 +1,1 @@
+const languages=["Java","Python","C","Javascript","Flutter","Go"]
