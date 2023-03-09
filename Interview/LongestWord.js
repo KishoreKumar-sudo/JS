@@ -8,3 +8,4 @@ function longestWord(arr){
         return longWord;
     }
 }
+console.log(longestWord(languages));
