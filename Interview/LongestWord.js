@@ -1,3 +1,4 @@
+//not yet working
 const languages = ["Java", "Python", "C", "Javascript", "Flutter", "Go"]
 function longestWord(arr) {
     let longWord = arr[0];
