@@ -1,1 +1,3 @@
-let x = ()=>{}
+let x = ()=>{
+    return{y:"Z"}
+}
