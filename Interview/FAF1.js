@@ -1,4 +1,4 @@
 let x = ()=>{
     return{y:"Z"}
 }
-console.log(typeof x().y);
+console.log(typeof x().y); //String
