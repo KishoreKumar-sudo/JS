@@ -1,2 +1,2 @@
 let a=6
-let b=typeof 
+let b=typeof ( a== 6)
