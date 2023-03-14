@@ -11,7 +11,8 @@ function displayTime(){
     document.getElementById('hours').innerHTML=hr
     document.getElementById('minutes').innerHTML=min
     document.getElementById('seconds').innerHTML=sec
-
-
+}
+function padZero (num){
+    return num<10?"0"+num:num
 }
 setInterval(displayTime, 500)
