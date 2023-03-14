@@ -2,8 +2,8 @@ let ampm = document.getElementById('ampm')
 function displayTime(){
     let dateTime = new Date() 
     let hr = dateTime.getHours()
-    let min = dateTime.getMinutes()
-    let sec = dateTime.getSeconds()
+    let min = dateTime.padZero(getMinutes())
+    let sec = dateTime.padZero(getSeconds())
     if (hr>12){
         hr = hr -12
         ampm.innerHTML='PM'
