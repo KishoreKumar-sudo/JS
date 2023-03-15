@@ -21,3 +21,7 @@ container{
 .container span{
     margin-left: 10px;
 }
+#ampm{
+    font-size:3rem;
+    align-items:end;
+}
