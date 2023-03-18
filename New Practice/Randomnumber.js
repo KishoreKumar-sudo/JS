@@ -1,2 +1,2 @@
 const a =Math.random()
-console.log(first)
+console.log(a)
