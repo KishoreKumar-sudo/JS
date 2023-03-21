@@ -7,4 +7,4 @@
      return OTP
  }
  // call the function to generate a 6-digit OTP
- generateOTP()
+ console.log(generateOTP()); 
