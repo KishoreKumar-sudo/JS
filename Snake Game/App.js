@@ -16,7 +16,8 @@ function startGame() {
     displayFood();
 
     function createFood() {
-
+        foodX = Math.floor(Math.random() * WIDTH / UNIT) * UNIT
+        foodY = Math.floor(Math.random() * HEIGHT / UNIT) * UNIT
     }
 
     function displayFood() {
