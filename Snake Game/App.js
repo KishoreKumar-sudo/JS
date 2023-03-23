@@ -5,7 +5,6 @@ const WIDTH = gameBoard.width;
 const HEIGHT = gameBoard.height;
 const UNIT = 25;
 
-
 startGame()
 
 function startGame() {
