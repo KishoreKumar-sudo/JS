@@ -61,4 +61,8 @@ function startGame() {
         snake.unshift(head)
         snake.pop()
     }
+
+    function nextTick(){
+        
+    }
 }
