@@ -5,6 +5,9 @@ const WIDTH = gameBoard.width;
 const HEIGHT = gameBoard.height;
 const UNIT = 25;
 
+let foodX;
+let foodY
+
 startGame()
 
 function startGame() {
@@ -21,6 +24,6 @@ function startGame() {
 
     function displayFood() {
         context.fillStyle = 'red'
-        context.fillRect = (foodX, foodY, UNIT, UNIT)
+        context.fillRect(foodX, foodY, UNIT, UNIT)
     }
 }
