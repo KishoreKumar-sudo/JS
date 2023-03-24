@@ -10,14 +10,13 @@ let foodY;
 let xVel = 25
 let yVel = 0
 
-
 let snake = [
     { x: UNIT * 3, y: 0 },
     { x: UNIT * 2, y: 0 },
     { x: UNIT, y: 0 },
     { x: 0, y: 0 }
 ]
-
+window.addEventListener('keydown',keyPress)
 startGame()
 
 function startGame() {
@@ -26,10 +25,6 @@ function startGame() {
     context.fillRect(0, 0, WIDTH, HEIGHT)
     createFood();
     displayFood();
-    // drawsSnake();
-    // moveSnake()
-    // clearBoard()
-    // drawsSnake()
     nextTick()
 
     function clearBoard() {
@@ -63,6 +58,12 @@ function startGame() {
     }
 
     function nextTick() {
-
+        setTimeout(() => {
+            drawsSnake();
+            moveSnake()
+            clearBoard()
+            drawsSnake()
+            nextTick()
+        }, 200)
     }
 }
