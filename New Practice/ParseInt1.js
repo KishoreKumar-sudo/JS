@@ -1,2 +1,3 @@
-let margin ="10px"
-let x=parseInt(margin)
+let margin = "10px"
+let x = parseInt(margin)
+console.log(parseInt(x))
