@@ -6,7 +6,14 @@ const HEIGHT = gameBoard.height;
 const UNIT = 25;
 
 let foodX;
-let foodY
+let foodY;
+
+let snake = [
+    { x: UNIT * 3, y: 0 },
+    { x: UNIT * 2, y: 0 },
+    { x: UNIT, y: 0 },
+    { x: 0, y: 0 }
+]
 
 startGame()
 
@@ -16,6 +23,7 @@ function startGame() {
     context.fillRect(0, 0, WIDTH, HEIGHT)
     createFood();
     displayFood();
+    drawsSnake();
 
     function createFood() {
         foodX = Math.floor(Math.random() * WIDTH / UNIT) * UNIT
