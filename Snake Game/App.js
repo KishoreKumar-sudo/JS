@@ -7,6 +7,9 @@ const UNIT = 25;
 
 let foodX;
 let foodY;
+let xVel=25
+let yVel=0
+
 
 let snake = [
     { x: UNIT * 3, y: 0 },
@@ -23,7 +26,17 @@ function startGame() {
     context.fillRect(0, 0, WIDTH, HEIGHT)
     createFood();
     displayFood();
-    drawsSnake();
+    // drawsSnake();
+    // moveSnake()
+    // clearBoard()
+    // drawsSnake()
+    nextTick()
+
+    function clearBoard(){
+        context.fillStyle = '#212121'
+        //for fillRectangle syntax would be (x-axis startingpt, y-axis startingpt, width, height) 
+        context.fillRect(0, 0, WIDTH, HEIGHT)
+    }
 
     function createFood() {
         foodX = Math.floor(Math.random() * WIDTH / UNIT) * UNIT
@@ -42,5 +55,10 @@ function startGame() {
             context.fillRect(SnakePart.x, SnakePart.y, UNIT, UNIT)
             context.strokeRect(SnakePart.x, SnakePart.y, UNIT, UNIT)
         })
+    }
+    function moveSnake(){
+        const head ={x:snake[0].x+xVel, y:snake[0].y+yVel}
+        snake.unshift(head)
+        snake.pop()
     }
 }
