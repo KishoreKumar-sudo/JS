@@ -7,8 +7,8 @@ const UNIT = 25;
 
 let foodX;
 let foodY;
-let xVel=25
-let yVel=0
+let xVel = 25
+let yVel = 0
 
 
 let snake = [
@@ -32,7 +32,7 @@ function startGame() {
     // drawsSnake()
     nextTick()
 
-    function clearBoard(){
+    function clearBoard() {
         context.fillStyle = '#212121'
         //for fillRectangle syntax would be (x-axis startingpt, y-axis startingpt, width, height) 
         context.fillRect(0, 0, WIDTH, HEIGHT)
@@ -56,13 +56,13 @@ function startGame() {
             context.strokeRect(SnakePart.x, SnakePart.y, UNIT, UNIT)
         })
     }
-    function moveSnake(){
-        const head ={x:snake[0].x+xVel, y:snake[0].y+yVel}
+    function moveSnake() {
+        const head = { x: snake[0].x + xVel, y: snake[0].y + yVel }
         snake.unshift(head)
         snake.pop()
     }
 
-    function nextTick(){
-        
+    function nextTick() {
+
     }
 }
