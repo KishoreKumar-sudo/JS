@@ -34,4 +34,13 @@ function startGame() {
         context.fillStyle = 'red'
         context.fillRect(foodX, foodY, UNIT, UNIT)
     }
+
+    function drawsSnake() {
+        context.fillStyle = 'aqua'
+        context.strokeStyle = '#212121'
+        snake.forEach((SnakePart) => {
+            context.fillRect(SnakePart.x, SnakePart.y, UNIT, UNIT)
+            context.strokeRect(SnakePart.x, SnakePart.y, UNIT, UNIT)
+        })
+    }
 }
