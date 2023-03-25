@@ -1,3 +1,3 @@
-let x=[1,2,3]
-let y=x.join("")
-console.log(typeof y)
+let x = [1, 2, 3]
+let y = x.join("")
+console.log(typeof y) //string
