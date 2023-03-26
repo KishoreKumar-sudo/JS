@@ -3,3 +3,4 @@
 
 let bikes = ["Yamaha", "Bajaj", "Honda", "TVS"]
 console.log(bikes.join())
+console.log(bikes.join("")) //without spacing
