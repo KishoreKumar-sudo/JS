@@ -1,2 +1,4 @@
 let button=document.querySelector("button")
-button.addEventListener
+button.addEventListener("click", ()=>{
+    console.log("Button Clicked!");
+},{once :true})
