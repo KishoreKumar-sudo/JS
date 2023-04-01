@@ -2,3 +2,4 @@
 //dz mtd adds element to beginning & returns new array length
 let bikes = ["Yamaha", "Bajaj", "Honda", "TVS", "Ducatti", "Royal Enfield"];
 console.log(bikes.unshift("BMW", "Kawasaki"))
+console.log(bikes);
