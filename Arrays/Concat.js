@@ -7,4 +7,4 @@ let array3 = [122, 13]
 
 let array_new = array1.concat(array2, array3);
 
-console.log(array_new);
+console.log(array_new);//returns the new array
