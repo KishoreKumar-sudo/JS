@@ -33,3 +33,14 @@ body {
     margin: 0;
     text-align: center;
 }
+
+label{
+    font-weight: bold;
+}
+.character-amount-container{
+    display: flex;
+    align-items: center;
+}
+.number-input{
+    width: 2rem;
+}
