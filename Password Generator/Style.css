@@ -44,3 +44,16 @@ label{
 .number-input{
     width: 2rem;
 }
+.password-display{
+    background-color: white;
+    color: #333;
+    padding: 1rem;
+    border: 1px solid black;
+    height: 2rem;
+    width: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    word-break: break-all;
+    border-radius: .5rem;
+}
