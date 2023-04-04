@@ -1,11 +1,36 @@
-const characterAmountRange=document.getElementById('characterAmountRange')
-const characterAmountNumber=document.getElementById('characterAmountNumber')
+const characterAmountRange = document.getElementById('characterAmountRange')
+const characterAmountNumber = document.getElementById('characterAmountNumber')
+const includeUppercaseElement = document.getElementById('includeUppercase')
+const includeNumbersElement = document.getElementById('includeNumbers')
+const includeSymbolsElement = document.getElementById('includeSymbols')
+const UPPERCASE_CHAR_CODE=arrayLowToHigh(65,90)
 
 characterAmountNumber.addEventListener('input', syncCharacterAmount)
 characterAmountRange.addEventListener('input', syncCharacterAmount)
 
-function syncCharacterAmount(e){
-    const value=e.targer.value
-    characterAmountNumber.value=value
-    characterAmountRange.value=value
+form.addEventListener('submit', e => {
+    e.preventDefault()
+    const characterAmount = characterAmountNumber.value
+    const includeUppercase = includeUppercaseElement.checked
+    const includeNumbers = includeNumbersElement.checked
+    const includeSymbols = includeSymbolsElement.checked
+    const password = generatePassword(characterAmount, includeUppercase, includeNumbers, includeSymbols)
+})
+
+function generatePassword(characterAmount, includeUppercase, includeNumbers, includeSymbols) {
+    String.fromCharCode(65)
+}
+
+function arrayLowToHigh(low, high) {
+    const array = [];
+    for (let i = low; i <=high; i++) {
+        array.push(i)
+    }
+    return array
+}
+
+function syncCharacterAmount(e) {
+    const value = e.target.value
+    characterAmountNumber.value = value
+    characterAmountRange.value = value
 }
