@@ -1,0 +1,1 @@
+// Syntax array.slice(start, end);
