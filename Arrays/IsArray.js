@@ -1,0 +1,1 @@
+// syntax Array.isArray(obj)
