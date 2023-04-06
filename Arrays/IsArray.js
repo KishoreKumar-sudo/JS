@@ -3,4 +3,7 @@
 
 let numbers = [1, 2, 3, 4, 5, 6]
 let string = "CodeWithKishore"
-console.log(Array.isArray(numbers));
+let string1 = ["CodeWithKishore"]
+console.log(Array.isArray(numbers));//true
+console.log(Array.isArray(string));//false 
+console.log(Array.isArray(string1));//true
