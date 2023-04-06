@@ -4,3 +4,4 @@
 //negative start values counts from the last element(bt still reaches from left to right)
 
 let elements = ["Laptop", "Mobile", "Headset", "Router", "Modem"]
+console.log(elements.indexOf("Mobile"), 0);
