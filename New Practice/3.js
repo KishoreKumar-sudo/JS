@@ -8,6 +8,12 @@ for (let i = 0; i < 3; i++) {
         console.log(i);
     }, 1000)
 }
-console.log("first", i)
+//first undefined
+// NaN
+// 0
+// 1
+// 2
+
+console.log("first", i) 
 
 console.log(NaN = NaN)
