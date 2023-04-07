@@ -14,6 +14,6 @@ for (let i = 0; i < 3; i++) {
 // 1
 // 2
 
-console.log("first", i) 
+console.log("first", i)
 
 console.log(NaN = NaN)

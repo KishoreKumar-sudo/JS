@@ -5,7 +5,7 @@ let sum = (a, b) => {
 let multi = (a, b) => {
     return a * b
 }
-let calc= (a, b, callback) => {
+let calc = (a, b, callback) => {
     return callback(a, b)
 }
 let r1 = calc(10, 20, sum)
