@@ -14,5 +14,5 @@ function compare(obj1, obj2) {
     }
     return true
 }
-console.log(compare(obj1, obj2));
-console.log(compare(obj1, obj3));
+console.log(compare(obj1, obj2));//false
+console.log(compare(obj1, obj3));//false
