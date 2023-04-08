@@ -14,3 +14,5 @@ function compare(obj1, obj2) {
     }
     return true
 }
+console.log(compare);
+console.log(compare);
