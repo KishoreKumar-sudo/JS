@@ -1,5 +1,5 @@
-const x = 10
+const x = 10;
 if (x > 20) {
     document.write(15)
 }
-console.log(x);
+console.log(x); //10
