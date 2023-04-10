@@ -1,5 +1,7 @@
 //how should you update objects as state in react?
-const[x, setX]=useState({
-    a:10,
-    b:30
+const [x, setX] = useState({
+    a: 10,
+    b: 30
 })
+//x.a=20;x.b=40
+//setX({a:20,b:40})
