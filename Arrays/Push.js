@@ -8,3 +8,5 @@ const b=[1,2,3]
 const c=[...b,4,5]
  const d=c
  d.push(4)
+ console.log(c.length);
+ console.log(d);
