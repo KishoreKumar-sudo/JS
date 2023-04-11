@@ -6,4 +6,5 @@ console.log(a);//[1,2,4,3]
 
 const b=[1,2,3]
 const c=[...b,4,5]
- 
+ const d=c
+ d.push(4)
