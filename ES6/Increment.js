@@ -9,3 +9,5 @@ var x=10
 function count(n){
     console.log(n);
 }
+count(x++)
+count(++x) //10 and 12
