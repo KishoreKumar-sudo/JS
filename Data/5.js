@@ -13,4 +13,4 @@ b = 30
 console.log(true + false); //(1 + 0 => 1)
 
 const num = parseInt('7*6', 10)
-console.log();
+console.log(num); //7
