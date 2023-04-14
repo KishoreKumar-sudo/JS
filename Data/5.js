@@ -1,3 +1,3 @@
 const a='text'.split('t')
-console.log(a);
-console.log(a[1]);
+console.log(a); //[ '', 'ex', '' ]
+console.log(a[1]); //ex
