@@ -1,0 +1,1 @@
+const a='text'.split('t')
