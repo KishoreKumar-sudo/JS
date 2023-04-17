@@ -1,5 +1,6 @@
 //not yet working
 const languages = ["Java", "Python", "C", "Javascript", "Flutter", "Go"]
+
 function longestWord(arr) {
     let longWord = arr[0];
     for (let item of arr) {
@@ -9,4 +10,5 @@ function longestWord(arr) {
         return longWord;
     }
 }
+
 console.log(longestWord(languages));

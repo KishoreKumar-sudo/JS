@@ -4,6 +4,7 @@ isNaN('1')  // Returns false, since '1' is converted to Number type which result
 isNaN(true) // Returns false, since true converted to Number type results in 1 ( a number)
 isNaN(false) // Returns false
 isNaN(undefined)
+
 console.log(isNaN);
-typeof(isNaN)
+typeof (isNaN)
 

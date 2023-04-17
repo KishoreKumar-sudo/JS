@@ -1,3 +1,4 @@
-let x= "Object"
-console.log(typeof x);
+let x = "Object"
+
+console.log(typeof x); //String
 
