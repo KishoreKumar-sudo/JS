@@ -3,4 +3,5 @@
 
 let array = [99, 32, 23, 46, 56, 100]
 array.splice(2, 3, "a", "b", "c")
+
 console.log(array) //[ 99, 32, 'a', 'b', 'c', 100 ]
