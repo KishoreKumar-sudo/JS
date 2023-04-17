@@ -6,8 +6,10 @@ let b = 10
 {
     let b = 20
 }
+
 console.log(b != 20); //true
 console.log(b == 20); //false
+
 b = 30
 
 console.log(true + false); //(1 + 0 => 1)
