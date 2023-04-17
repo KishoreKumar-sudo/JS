@@ -7,4 +7,5 @@ function removeDuplicate(arr) {
     }
     return newArray
 }
+
 console.log(removeDuplicate(names));
