@@ -18,3 +18,4 @@ function func() {
 }
 
 console.log(a + func()); //3
+
