@@ -10,3 +10,11 @@ let y = []
 let z = x + y
 
 console.log(typeof z); //string
+
+var a = 1
+function func() {
+    a = 2
+    return a
+}
+
+console.log(a + func()); //3
