@@ -2,3 +2,4 @@
 //if the value is not found returns false
 
 // syntax => array.includes(element, start)
+
