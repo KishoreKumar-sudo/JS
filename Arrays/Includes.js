@@ -4,7 +4,10 @@
 // syntax => array.includes(element, start)
 
 const num = [1, 2, 3]
+
 console.log(num.includes(3)); //true
 
-const string=["Cat","Dog","Elephant","Fish"]
-console.log(string.includes("fish"));
+const string = ["Cat", "Dog", "Elephant", "Fish"]
+
+console.log(string.includes("Fish")); //T
+console.log(string.includes("fish")); //F
