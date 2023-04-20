@@ -2,3 +2,6 @@
 //if no elements satisfy the testing function, then -1 is required
 
 //syntax => array.findIndex(function(currentValue, index, arr), thisValue)
+
+const array1 = [5, 12, 8, 130, 44]
+const isLargeNumber = (element) => element > 13
