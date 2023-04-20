@@ -1,4 +1,5 @@
 // syntax => array.lastIndexOf(item, start);
+//Negative start values counts from the last element(but still searches from left to right)
 
 let elements = ["Laptop", "Headset", "Mobile", "Router", "Mobile"]
 
