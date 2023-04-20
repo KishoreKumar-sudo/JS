@@ -3,3 +3,5 @@
 
 // syntax => array.includes(element, start)
 
+const num=[1,2,3]
+console.log(num.includes(3)); 
