@@ -5,3 +5,6 @@
 
 const num = [1, 2, 3]
 console.log(num.includes(3)); //true
+
+const string=["Cat","Dog","Elephant","Fish"]
+console.log(string.includes("fish"));
