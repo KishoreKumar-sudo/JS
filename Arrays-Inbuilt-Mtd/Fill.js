@@ -5,6 +5,10 @@
 
 //Fill alll the elements with a value
 
-const fruits=["Banana","Orange","Apple","Mango"]
+const fruits = ["Banana", "Orange", "Apple", "Mango"]
 fruits.fill("Kiwi")
 console.log(fruits) //[ 'Kiwi', 'Kiwi', 'Kiwi', 'Kiwi' ]
+
+const vegetables = ["Beetroot", "Carrot", "Onion", "Tomato"]
+vegetables.fill("Raddish", 2, 4)
+console.log(vegetables); //[ 'Beetroot', 'Carrot', 'Raddish', 'Raddish' ]F
