@@ -7,6 +7,7 @@
 
 const fruits = ["Banana", "Orange", "Apple", "Mango"]
 fruits.copyWithin(2, 0)
-console.log(fruits);
+console.log(fruits); //[ 'Banana', 'Orange', 'Banana', 'Orange' ]
 
-const vegetables = ["Beetroot", "Carrot", "Onion", "Tomato","",""]
+const vegetables = ["Beetroot", "Carrot", "Onion", "Tomato", "Mushroom", "Pumpkin"]
+console.log(vegetables.copyWithin(2, 0, 2)); //[ 'Beetroot', 'Carrot', 'Beetroot', 'Carrot', 'Mushroom', 'Pumpkin' ]
