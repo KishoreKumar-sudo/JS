@@ -5,8 +5,9 @@
 //otherwise it returns "false", it doesn't modify array.
 
 const ages = [3, 10, 18, 20];
-ages.some(checkAdult)
 
-function checkAdult(age){
-    
+function checkAdult(age) {
+    return age > 18
 }
+
+console.log(ages.some(checkAdult)) //true
