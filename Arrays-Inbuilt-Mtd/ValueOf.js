@@ -5,4 +5,14 @@
 
 //get the value of fruits:
 
-const fruits=[]
+const fruit = ["Banana", "Orange", "Apple", "Mango"]
+const myArray = fruit.valueOf()
+
+console.log(myArray); //[ 'Banana', 'Orange', 'Apple', 'Mango' ]
+
+// fruits.valueOf() returns the same as fruits:
+
+const fruits = ["Banana", "Orange", "Apple", "Mango"]
+const myArrays = fruits
+
+console.log();
