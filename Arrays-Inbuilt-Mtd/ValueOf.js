@@ -15,4 +15,4 @@ console.log(myArray); //[ 'Banana', 'Orange', 'Apple', 'Mango' ]
 const fruits = ["Banana", "Orange", "Apple", "Mango"]
 const myArrays = fruits
 
-console.log();
+console.log(myArrays);//[ 'Banana', 'Orange', 'Apple', 'Mango' ]
