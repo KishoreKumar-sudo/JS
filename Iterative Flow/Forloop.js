@@ -1,3 +1,7 @@
+/* syntax => for([initialization];[condition];[final-expression]){
+    Block of code
+ } */
+
 // condition checking & increment or decrements of the looping variable can be done in the same line.
 //incase of for loop the declaration & initialization of looping variable, 
 
@@ -5,9 +9,6 @@
 //(i<=25)Condition, 
 //(i=i+1 i=i-1 (or) i++,i--)Increment/Decrement 
 
-/* syntax => for([initialization];[condition];[final-expression]){
-    Block of code
- } */
 
 for (let i = 0; i <= 25; i++) {
     console.log(i)
@@ -19,4 +20,13 @@ function myFunc() {
         console.log(i);
     }
 }
-myFunc() //
+myFunc()
+ /* 1
+2
+3
+4
+5
+6
+7
+8
+9 */
