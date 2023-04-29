@@ -6,9 +6,10 @@ class Animal {
         this.name = name;
         this.age = age;
     }
-    getInfo(){
-        return(
-            
+    getInfo() {
+        return (
+            `The name of animal is
+            ${this.name} and age is ${this.age}`
         )
     }
 }
