@@ -1,3 +1,4 @@
+    Git
 Released in 2005
 Git is a software
 Maintained by Linux
@@ -6,12 +7,7 @@ Installed locally on the system
 Focused on version control & code sharing
 It has no user management feature
 
-
-
-
-
-
-
+    Github
 Launched in 2008
 Github is a service
 Maintained by Microsoft
