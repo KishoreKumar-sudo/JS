@@ -3,6 +3,7 @@ Git is a software
 Maintained by Linux
 Manage source code history
 Installed locally on the system
+Focused on version control & code sharing
 
 
 
@@ -11,7 +12,8 @@ Installed locally on the system
 
 
 Launched in 2008
-Github is Service
-It's Maintained by Microsoft
-It's is a hosting Service for git repositories
+Github is a service
+Maintained by Microsoft
+Hosting service for git repositories
 Hosted on the web
+Focuses on centralized source code hoisting
