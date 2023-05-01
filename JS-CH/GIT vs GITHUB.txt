@@ -1,5 +1,6 @@
 Git is a software
 It's maintained by Linux
+Git can manage source code history
 
 
 
@@ -7,5 +8,6 @@ It's maintained by Linux
 
 
 
-Github is Service 
+Github is Service
 It's Maintained by Microsoft
+It's is a hosting Service for git repositories
