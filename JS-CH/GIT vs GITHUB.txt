@@ -1,6 +1,8 @@
+Released in 2005
 Git is a software
-It's maintained by Linux
-Git can manage source code history
+Maintained by Linux
+Manage source code history
+Installed locally on the system
 
 
 
@@ -8,6 +10,8 @@ Git can manage source code history
 
 
 
+Launched in 2008
 Github is Service
 It's Maintained by Microsoft
 It's is a hosting Service for git repositories
+Hosted on the web
