@@ -4,6 +4,7 @@ Maintained by Linux
 Manage source code history
 Installed locally on the system
 Focused on version control & code sharing
+It has no user management feature
 
 
 
@@ -17,3 +18,4 @@ Maintained by Microsoft
 Hosting service for git repositories
 Hosted on the web
 Focuses on centralized source code hoisting
+It has a built-in user management feature
