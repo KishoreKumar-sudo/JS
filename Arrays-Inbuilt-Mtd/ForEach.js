@@ -9,3 +9,4 @@ numbers.forEach(myFunction)
 function myFunction(item, index, arr) {
     arr[index] = item * 10
 }
+console.log(numbers) //[ 650, 440, 120, 40 ]
