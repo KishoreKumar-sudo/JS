@@ -2,3 +2,4 @@
 
 //syntax => array.reduce(function(total, currentValue, currentIndex, arr), initialValue)
 
+const numbers = [175, 50, 25]
