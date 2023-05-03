@@ -3,8 +3,10 @@
 //syntax => array.reduce(function(total, currentValue, currentIndex, arr), initialValue)
 
 const numbers = [175, 50, 25]
-console.log(numbers.reduce(myFunc))
+numbers.reduce(myFunc)
 
 function myFunc(total, num) {
     return total - num
 }
+
+console.log(numbers.reduce(myFunc))
