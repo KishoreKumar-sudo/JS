@@ -10,5 +10,5 @@ function myFunc(total, num) {
     return total - num
 }
 
-console.log(number.reduce(myFunc)) 
+console.log(number.reduce(myFunc)) //100
 console.log(numbers.reduce(myFunc)) //75
