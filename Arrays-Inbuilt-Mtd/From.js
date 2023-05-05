@@ -5,5 +5,6 @@
 
 //create an array from an string.
 
-console.log(Array.from("Code"));
+console.log(Array.from("Code")); //[ 'C', 'o', 'd', 'e' ]
+console.log(Array.from('Code')); //[ 'C', 'o', 'd', 'e' ]
 
