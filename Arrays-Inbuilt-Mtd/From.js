@@ -1,0 +1,1 @@
+// syntax => Array.from(object, mapFunction, thisValue);
