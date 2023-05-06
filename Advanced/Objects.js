@@ -14,3 +14,6 @@ console.log(Object.keys(person)); //[ 'name', 'age', 'gender' ]
 
 //get all object values
 console.log(Object.values(person)); //[ 'John', 30, 'Male' ]
+
+//get all object entries
+console.log(Object.entries(person)); //[][ [ 'name', 'John' ], [ 'age', 30 ], [ 'gender', 'Male' ] ]
