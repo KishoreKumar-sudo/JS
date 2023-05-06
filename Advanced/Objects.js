@@ -6,7 +6,7 @@ const person = {
 
 const jobObject = {
     job: 'Developer',
-    salary: 1000
+    salary: 10000
 };
 
 //get all object keys
@@ -17,3 +17,13 @@ console.log(Object.values(person)); //[ 'John', 30, 'Male' ]
 
 //get all object entries
 console.log(Object.entries(person)); //[][ [ 'name', 'John' ], [ 'age', 30 ], [ 'gender', 'Male' ] ]
+
+//assign object to another object
+console.log(Object.assign(person, jobObject));
+/* {
+    name: 'John',
+    age: 30,
+    gender: 'Male',
+    job: 'Developer',
+    salary: 10000
+  } */
