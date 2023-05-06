@@ -13,4 +13,4 @@ const jobObject = {
 console.log(Object.keys(person)); //[ 'name', 'age', 'gender' ]
 
 //get all object values
-Object.values
+console.log(Object.values(person)); //[ 'John', 30, 'Male' ]
