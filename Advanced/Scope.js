@@ -14,3 +14,9 @@ if (true) {
     const fullName='Kishore Kumar';
     console.log(fullName);//Kishore Kumar
 }
+
+console.log(PIE);
+
+console.log(age);
+
+console.log(fullName);
