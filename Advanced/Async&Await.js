@@ -4,7 +4,8 @@ async function getWeatherData() {
         //used await to make the code wait until promise returns a result
         const res = await fetch('https://jsonplaceholder.typicode.com/posts');
         const data = await res.json()
-    } catch (error) {
-
+        return data
+    } catch (err) {
+        console.log(err)
     }
 }
