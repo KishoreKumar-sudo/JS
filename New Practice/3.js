@@ -4,6 +4,7 @@ console.log("total = " + x + y); //total = 1020
 
 console.log(NaN = NaN)
 
-for(let i=1;i<4;i++){
-    
+for (let i = 1; i < 4; i++) {
+    if (i === 2) continue
+
 }
