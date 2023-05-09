@@ -1,12 +1,13 @@
 /* error handling in js */
-function foo(){
+function foo() {
     //try catch block
-    try{
+    try {
         // ...
-    }catch(e){
+    } catch (e) {
         //catch error
         //....
     }
-    }
-    
-    //executes when a JS promise that has no rejection handler is rejected
+}
+//executes when a JS promise that has no rejection handler is rejected
+
+window.addEventListener('unhandledrejection', function () { });
