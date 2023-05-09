@@ -8,3 +8,5 @@ function foo(){
         //....
     }
     }
+    
+    //executes when a JS promise that has no rejection handler is rejected
