@@ -3,3 +3,5 @@ what is the purpose of a JS function => To Perform Task/Calculation
 which mtd tests if atleast one element meets a condition=> some()
 
 HTML is a subset of => XHTML
+
+which computer language structures all web pages on the internet => HTML 
