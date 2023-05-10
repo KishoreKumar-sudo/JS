@@ -12,4 +12,8 @@ console.log(date.getMilliseconds()); //200
 console.log(date.setDate(10));
 console.log(date.setMonth(5));
 console.log(date.setFullYear(2024));
-
+console.log(date.setTime(1683731146194));
+console.log(date.setHours(20));
+console.log(date.setMinutes(38));
+console.log(date.setSeconds(15));
+console.log(date.setMilliseconds(176));
