@@ -1,6 +1,6 @@
 Angular
-Data-Binding
+Data-Binding has an 
 
 React
-
+Data-Binding
 
