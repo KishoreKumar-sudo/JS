@@ -1,5 +1,5 @@
 Angular
-Data-Binding has an 
+Data-Binding has an upper hand b
 
 React
 Data-Binding
