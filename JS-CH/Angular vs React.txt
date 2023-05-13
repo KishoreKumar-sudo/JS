@@ -1,6 +1,7 @@
 Angular
-Data-Binding has an upper hand b
+Data-Binding has an upper hand bcz it supports both one-way & two-way binding.
+Dependency injection is enabled, which allows different stores to separate life cycles
 
 React
-Data-Binding
+Data-Binding supports only one-way data binding.
 
