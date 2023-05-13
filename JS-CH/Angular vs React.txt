@@ -1,7 +1,9 @@
 Angular
 Data-Binding has an upper hand bcz it supports both one-way & two-way binding.
-Dependency injection is enabled, which allows different stores to separate life cycles
+Dependency injection is enabled by Angular, which allows different stores to separate life cycles.
+It lacks in providing freedom & flexibility compared to react. 
 
 React
 Data-Binding supports only one-way data binding.
-
+Each component of REACT has its global state, dependency injection is fully on enabled by react.
+It provides you flexibility & freedom to choose architecture, libraries & tools.
