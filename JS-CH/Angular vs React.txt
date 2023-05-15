@@ -4,10 +4,12 @@ Dependency injection is enabled by Angular, which allows different stores to sep
 It lacks in providing freedom & flexibility compared to react. 
 The installation time of Angular is less compared to react bt it has more coding time which causes delays in project deliveries.
 Testing & Debugging in Angular for a complete project can be done using a single tool.
+Adding JS library to source code is not possible in Angular.
 
 React
 Data-Binding supports only one-way data binding.
 Each component of REACT has its global state, dependency injection is fully on enabled by react.
-It provides you flexibility & freedom to choose architecture, libraries & tools.
-It takes more time to install bt it very fast in project deliveries & app development.
+React provides you flexibility & freedom to choose architecture, libraries & tools.
+React takes more time to install bt it very fast in project deliveries & app development.
 React needs a set of tools to perform testing & debugging.
+Adding JS library to the source code is possible in React.
