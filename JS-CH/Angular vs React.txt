@@ -6,6 +6,7 @@ The installation time of Angular is less compared to react bt it has more coding
 Testing & Debugging in Angular for a complete project can be done using a single tool.
 Adding JS library to source code is not possible in Angular.
 
+
 React
 Data-Binding supports only one-way data binding.
 Each component of REACT has its global state, dependency injection is fully on enabled by react.
