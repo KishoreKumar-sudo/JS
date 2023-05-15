@@ -13,6 +13,8 @@ console.log(fruits.pop());//Pineapple
 //checks if array contains an element
 console.log(fruits.includes('Banana')); //true
 
+//returns the index of element
 console.log(fruits.indexOf('Strawberry')); //4
 
+//join the elements of array with the given separator
 console.log(fruits.join('+')); //Apple+Banana+Grapes+Orange+Strawberry+Apple
