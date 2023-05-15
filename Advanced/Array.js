@@ -12,3 +12,7 @@ console.log(fruits.pop());//Pineapple
 
 //checks if array contains an element
 console.log(fruits.includes('Banana')); //true
+
+console.log(fruits.indexOf('Strawberry')); //4
+
+console.log(fruits.join('+')); //Apple+Banana+Grapes+Orange+Strawberry+Apple
