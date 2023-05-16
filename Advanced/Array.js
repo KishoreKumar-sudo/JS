@@ -18,3 +18,7 @@ console.log(fruits.indexOf('Strawberry')); //4
 
 //join the elements of array with the given separator
 console.log(fruits.join('+')); //Apple+Banana+Grapes+Orange+Strawberry+Apple
+
+console.log(fruits.slice(1, 3)); //[ 'Banana', 'Grapes' ]
+
+console.log(fruits.splice(1, 0, 'Papaya'));
