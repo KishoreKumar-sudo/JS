@@ -18,7 +18,10 @@ console.log(!(c < d)); //true !(10<5), c is less than d then d will return false
 
 let e = { a: "b" };
 let f = e.hasOwnProperty("b");
+//it returns false bcz e has no property "b", so f = false (it's a value not property)
+
 let g = e.hasOwnProperty("a");
+//it returns a true bz e has property a , so g = true.
 
 console.log(f, g); //false true
 //bcz hasOwnProperty only used for searching key nt fr value.
