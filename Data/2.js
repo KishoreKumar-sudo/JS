@@ -18,5 +18,7 @@ console.log(!(c < d)); //true !(10<5), c is less than d then d will return false
 
 let e = { a: "b" };
 let f = e.hasOwnProperty("b");
-let g = f.hasOwnProperty("a");
+let g = e.hasOwnProperty("a");
 
+console.log(f, g); //false true
+//bcz hasOwnProperty only used for searching key nt fr value.
