@@ -15,3 +15,8 @@ let d = 5;
 
 console.log(!(c < d)); //true !(10<5), c is less than d then d will return false
 //!(false) = true
+
+let e = { a: "b" };
+let f = e.hasOwnProperty("b");
+let g = f.hasOwnProperty("a");
+
