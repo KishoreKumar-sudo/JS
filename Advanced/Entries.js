@@ -1,0 +1,1 @@
+// returns an Array iterator object with key/value pairs, it doesn't change original array.
