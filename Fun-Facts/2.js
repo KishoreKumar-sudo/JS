@@ -1,4 +1,5 @@
-//the Date object is smart enough to automatically adjust any overflows 
+//#ONF
+//the Date object is smart enough to automatically adjust any overflows in month, date or time values.
 
 const foo = new Date('May 25, 2023 00:00:00');
 foo.setDate(foo.getDate() + 1);
