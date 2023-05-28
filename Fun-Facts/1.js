@@ -12,4 +12,4 @@ const start = performance.now()
 const duration = performance.now() - start
 
 console.log(start); //138.20899987220764
-console.log(duration); //0.035199880599975586
+console.log(duration); //0.035199880599975586(precise time duration)
