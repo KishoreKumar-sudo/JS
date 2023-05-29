@@ -9,4 +9,5 @@ console.log(foo);  //2023-05-25
 
 async function test(){
     const promises =[/*  */]
+    for await(const result of promises)
 }
