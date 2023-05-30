@@ -2,4 +2,6 @@
 
 const arr=['foo','bar','baz']
 
-for
+for(const [key, value] of arr.entries()){
+    
+}
