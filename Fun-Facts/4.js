@@ -3,5 +3,5 @@
 const arr=['foo','bar','baz']
 
 for(const [key, value] of arr.entries()){
-    
+    console.log(key,value);
 }
