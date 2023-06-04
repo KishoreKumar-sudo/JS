@@ -14,8 +14,8 @@ const duration = performance.now() - start
 console.log(start); //115.478600025177
 console.log(duration); //0.03410005569458008(precise time duration)
 
-let a=10
-let b=20
+let a=10;
+let b=20;
 let c=a*b
 log
 
