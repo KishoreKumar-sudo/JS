@@ -7,4 +7,5 @@ const employee = {
     level: 2
 }
 
-console.log(Object.);
+console.log(Object.values(employee));
+//[ 'KishoreKumar', 26, 'Mechanical Engineer', 2 ]
