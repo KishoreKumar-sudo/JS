@@ -6,3 +6,7 @@ Object.seal(car);
 
 car.price=15000; //value changed successfully
 
+console.log(car.price);
+
+delete car.price;
+console.log(car);
