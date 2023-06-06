@@ -2,12 +2,13 @@
 //marks all existing properties as non-configurable.
 
 const car = { price: 12000 };
+
 Object.seal(car);
 
 car.price = 15000; //value changed successfully
 
 console.log(car.price); //15000
 
-delete car.price;
+delete car.price;//cannot delete when sealed 
 
-console.log(car.price);
+console.log(car.price);//15000
