@@ -6,4 +6,5 @@ const source = { b: 4, c: 5 };
 
 const returnedTarget = Object.assign(target, source);
 
-console.log(target);
+console.log(target); //{ a: 1, b: 4, c: 5 }
+console.log(returnedTarget); //{ a: 1, b: 4, c: 5 }
