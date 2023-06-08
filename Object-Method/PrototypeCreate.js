@@ -7,6 +7,7 @@ let student = {
     }
 };
 
+//create object
 let std1 = Object.create(student);
-std1.name ="Kishore";
+std1.name = "Kishore";
 std1.display(); //Name: Kishore
