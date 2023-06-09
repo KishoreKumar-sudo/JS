@@ -10,3 +10,5 @@ const client={
 };
 
 Object.freeze(client);
+
+client.budget=2500;
