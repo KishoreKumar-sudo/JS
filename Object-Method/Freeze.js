@@ -9,3 +9,4 @@ const client={
     budget:3000
 };
 
+Object.freeze(client);
