@@ -1,0 +1,1 @@
+//Freezes an object, a frozen object can no longer be changed.
