@@ -12,4 +12,4 @@ const client={
 Object.freeze(client);
 client.budget=2500;
 
-console.log(client.budget);
+console.log(client.budget); //3000
