@@ -5,4 +5,7 @@
    3.Changing the enumberability, configurability or writablity of existing properties.
    4.Changing values of the existing properties & prototype.
 */
+const client={
+    budget:3000
+};
 
