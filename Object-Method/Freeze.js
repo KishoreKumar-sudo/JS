@@ -10,6 +10,6 @@ const client={
 };
 
 Object.freeze(client);
-client.budget=2500;
+client.budget=2500; //shows error in strict mode
 
 console.log(client.budget); //3000
