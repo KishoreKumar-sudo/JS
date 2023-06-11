@@ -10,3 +10,5 @@ for (const [key, value] of arr.entries()) {
 1 bar
 2 baz
  */
+
+//Any piece of code inside a class is automatically evaluated in strict mode,
