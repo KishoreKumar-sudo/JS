@@ -12,6 +12,6 @@ for (const [key, value] of arr.entries()) {
  */
 
 //Any piece of code inside a class is automatically evaluated in strict mode, even if there is no use strict
-class MyClass{
-    
+class MyClass {
+    //Evaluation here is strict
 }
