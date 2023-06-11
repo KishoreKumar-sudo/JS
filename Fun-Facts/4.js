@@ -11,4 +11,7 @@ for (const [key, value] of arr.entries()) {
 2 baz
  */
 
-//Any piece of code inside a class is automatically evaluated in strict mode,
+//Any piece of code inside a class is automatically evaluated in strict mode, even if there is no use strict
+class MyClass{
+    
+}
