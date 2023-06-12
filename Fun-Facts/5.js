@@ -1,3 +1,8 @@
-//clear() Method
-let tips="Pushpa Rise"
-console.log(Rise);
+//Clear()
+let tips = "PushpaRise"
+console.log(tips);
+console.clear();
+
+//Info()
+let tip = "PushpaRule"
+console.log();
