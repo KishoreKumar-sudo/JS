@@ -1,8 +1,8 @@
 //Clear()
 let tips = "PushpaRise"
-console.log(tips);
+console.log(tips); //PushpaRise
 console.clear();
 
 //Info()
 let tip = "PushpaRule"
-console.log();
+console.info(tip) //PushpaRule
