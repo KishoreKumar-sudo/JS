@@ -1,3 +1,3 @@
 //clear() Method
-let tips="Pushpa rise"
-console.log();
+let tips="Pushpa Rise"
+console.log(Rise);
