@@ -17,3 +17,11 @@ using var
 using let  
 using const
 
+Operators:
+Arithmetic, Assignment, Comparison, Logical, Conditional & Type Operators.
+
+Type Operators:
+"typeof" returns the type of variable.
+"instanceof" returns true if an object is an instance of an object type.
+
+
