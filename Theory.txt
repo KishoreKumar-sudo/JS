@@ -24,4 +24,10 @@ Type Operators:
 "typeof" returns the type of variable.
 "instanceof" returns true if an object is an instance of an object type.
 
-
+Events:
+onclick,
+onchange,
+onkeydown,
+onload,
+onmouseover,
+onmouseout,
