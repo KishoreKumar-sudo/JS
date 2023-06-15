@@ -18,9 +18,20 @@ Arithmetic, Assignment, Comparison, Logical, Conditional & Type Operators.
 Comparison Operators:
 >(greater than), <(less than), >=(greater than or equal to), <=(less than or equal to), ?(Ternary)
 
+Logical Operators:
+&& logical And,
+|| logical Or,
+!  logical not 
+
 Type Operators:
 "typeof" returns the type of variable.
 "instanceof" returns true if an object is an instance of an object type.
+
+Statements:
+let x,y,z //Statement 1
+x = 10 //Statement 2
+y = 24 //Statement 3
+z = x + y //Statement 4
 
 JS Display possibilites:
 Writing into an HTML element, using innerHTML.
