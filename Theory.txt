@@ -6,28 +6,27 @@ HTML is a subset of => XHTML
 
 which computer language structures all web pages on the internet => HTML 
 
+Datatypes:
+String, Number, Big-int, Boolean, Undefined, Null, Symbol, object
+
+3-Ways to Declare & JS variable:
+using var, let, const
+
+Operators:
+Arithmetic, Assignment, Comparison, Logical, Conditional & Type Operators.
+
+Comparison Operators:
+>(greater than), <(less than), >=(greater than or equal to), <=(less than or equal to), ?(Ternary)
+
+Type Operators:
+"typeof" returns the type of variable.
+"instanceof" returns true if an object is an instance of an object type.
+
 JS Display possibilites:
 Writing into an HTML element, using innerHTML.
 Writing into the HTML output, using document.write().
 Writing into an alert box, using window.alert().
 Writing into the  browser console, using console.log().
 
-3-Ways to Declare & JS variable:
-using var 
-using let  
-using const
-
-Operators:
-Arithmetic, Assignment, Comparison, Logical, Conditional & Type Operators.
-
-Type Operators:
-"typeof" returns the type of variable.
-"instanceof" returns true if an object is an instance of an object type.
-
 Events:
-onclick,
-onchange,
-onkeydown,
-onload,
-onmouseover,
-onmouseout,
+onclick, onchange, onkeydown, onload, onmouseover, onmouseout, onmousedown, onmouseup, onmousemove
