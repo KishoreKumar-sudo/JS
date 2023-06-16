@@ -52,4 +52,11 @@ when separated by semicolons, multiple statements on one line are allowed:
 a = 5; b=6; c = a+b;
 
 Syntax:
-//How to create variiables: 
+//How to create variiables: var x; let y;
+//How to use variables: x = 5;y = 6;
+let z = x + y;
+
+Strings:
+JS Strings are fr storing & amnipulating txt.
+let text = "Kishore";
+console.log(text)
