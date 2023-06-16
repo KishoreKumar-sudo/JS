@@ -59,4 +59,8 @@ let z = x + y;
 Strings:
 JS Strings are fr storing & amnipulating txt.
 let text = "Kishore";
-console.log(text)
+console.log(text);
+
+String Length
+let texts = "Kishore";
+console.log(texts.length);
