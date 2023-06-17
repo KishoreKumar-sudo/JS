@@ -64,3 +64,11 @@ console.log(text);
 String Length
 let texts = "Kishore";
 console.log(texts.length);
+
+String Methods:
+String length
+String slice()
+String subString()
+String substr()
+String replace()
+string replaceAll()
