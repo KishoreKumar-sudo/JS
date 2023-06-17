@@ -84,3 +84,7 @@ String charAt()
 String charCodeAt()
 String split()
 
+Template Literals
+Template Strings
+String Templates
+Back-Tics Syntax  
