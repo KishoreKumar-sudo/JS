@@ -109,3 +109,6 @@ Multiline Strings:
 Ex:
     let text=`The quick brown fox jumps over the lazy dog`;
     console.log(text)
+
+Variable Substitutions:
+Template literals allow variables in strings. 
