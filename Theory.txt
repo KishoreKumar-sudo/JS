@@ -91,6 +91,11 @@ Back-Tics Syntax
 
 Back-Tics Syntax: 
 Template Literals use back-ticks (``) rather than the quotes("") to define a string.
-Ex:
+    Ex:
 let text =`Pushpendra`;
 console.log(text)
+
+JS Template Literals:
+    Quotes Inside Strings
+        With template literals u can use both single & double quotes inside a string.
+
