@@ -99,3 +99,9 @@ JS Template Literals:
     Quotes Inside Strings
         With template literals u can use both single & double quotes inside a string.
 
+Ex:
+let text =`He's often called "Push"`;
+console.log(text)
+
+Multiline Strings:
+    Template literals allows multiline strings.
