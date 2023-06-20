@@ -18,3 +18,12 @@ let n = [1, 2, 3, 4, 5]
 let p = n.every((x) => x > 0);
 
 console.log(p); //true
+
+//Ans : True Every () : it executes the function for each array element. Return true if the function returns true for all elements and false when the function returns false for one element.
+
+let name = "DAVE";
+let school = "OXFORD";
+name.toLowerCase();
+school = school.toLowerCase();
+
+console.log(name+school); //DAVEoxford
