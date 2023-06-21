@@ -5,6 +5,13 @@ which mtd tests if atleast one element meets a condition=> some()
 HTML is a subset of => XHTML
 
 which computer language structures all web pages on the internet => HTML 
+Shallow copy method example:
+arr.slice(0)
+[].concat(arr1)
+Spread Operator
+Object.create({}, obj)
+Object.assign({}, obj)
+Array.from(arr1)
 
 Datatypes:
 String, Number, Big-int, Boolean, Undefined, Null, Symbol, object
@@ -116,4 +123,5 @@ Template literals allow variables in strings.
 Ex:
     let firstname = "KishoreKumar";
     let lastname = "Padamanabhan";
-    let text = 
+    let text = `Welcome${firstname},${lastname}!`;
+    console.log(text);
