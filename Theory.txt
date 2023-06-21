@@ -112,3 +112,8 @@ Ex:
 
 Variable Substitutions:
 Template literals allow variables in strings. 
+
+Ex:
+    let firstname = "KishoreKumar";
+    let lastname = "Padamanabhan";
+    let text = 

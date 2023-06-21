@@ -26,4 +26,6 @@ let school = "OXFORD";
 name.toLowerCase();
 school = school.toLowerCase();
 
-console.log(name+school); //DAVEoxford
+console.log(name.toLowerCase());//dave
+console.log(school); //oxford
+console.log(name + school); //DAVEoxford
