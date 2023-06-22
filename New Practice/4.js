@@ -7,3 +7,8 @@ if (a === 10) {
 }
 console.log(a); //10
 
+// Template Literals
+let firstname = "KishoreKumar";
+let lastname = "Padamanabhan";
+let text = `Welcome ${firstname},${lastname}!`;
+console.log(text); //Welcome KishoreKumar,Padamanabhan!
