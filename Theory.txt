@@ -127,8 +127,18 @@ Ex:
     console.log(text);
 
 JS Date Formats:
-    Date input
+    Date inputs
 ISO Date "2023-06-22"(The International Standard);
 Short Date "06/22/2023";
 Long Date "Jun 22 2023" or "22 Jun 2023";
 
+Storage API
+    Storage Object Properties & Mtds:
+clear()
+getItem()
+key()
+length
+setItem()
+removeItem()
+window.localStorage
+window.sessionStorage
