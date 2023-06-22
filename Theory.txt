@@ -125,3 +125,10 @@ Ex:
     let lastname = "Padamanabhan";
     let text = `Welcome${firstname},${lastname}!`;
     console.log(text);
+
+JS Date Formats:
+    Date input
+ISO Date "2023-06-22"(The International Standard);
+Short Date "06/22/2023";
+Long Date "Jun 22 2023" or "22 Jun 2023";
+
