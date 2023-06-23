@@ -12,3 +12,9 @@ let firstname = "KishoreKumar";
 let lastname = "Padamanabhan";
 let text = `Welcome ${firstname},${lastname}!`;
 console.log(text); //Welcome KishoreKumar,Padamanabhan!
+
+let text1 =`Pushpendra`;
+console.log(text1) //Pushpendra
+
+let text2 =`He's often called "Push"`;
+console.log(text2) //He's often called "Push"

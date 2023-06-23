@@ -99,16 +99,16 @@ Back-Tics Syntax
 Back-Tics Syntax: 
 Template Literals use back-ticks (``) rather than the quotes("") to define a string.
     Ex:
-let text =`Pushpendra`;
-console.log(text)
+let text1 =`Pushpendra`;
+console.log(text1) //Pushpendra
 
 JS Template Literals:
     Quotes Inside Strings
         With template literals u can use both single & double quotes inside a string.
 
 Ex:
-let text =`He's often called "Push"`;
-console.log(text)
+let text2 =`He's often called "Push"`;
+console.log(text2) //He's often called "Push"
 
 Multiline Strings:
     Template literals allows multiline strings.
@@ -124,7 +124,7 @@ Ex:
     let firstname = "KishoreKumar";
     let lastname = "Padamanabhan";
     let text = `Welcome${firstname},${lastname}!`;
-    console.log(text);
+    console.log(text); //Welcome KishoreKumar,Padamanabhan!
 
 JS Date Formats:
     Date inputs
@@ -142,3 +142,5 @@ setItem()
 removeItem()
 window.localStorage
 window.sessionStorage
+
+
