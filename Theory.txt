@@ -143,4 +143,6 @@ removeItem()
 window.localStorage
 window.sessionStorage
 
+Console Object:
+    The Console Object provides access to the browser's debugging console.
 
