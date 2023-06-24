@@ -114,8 +114,8 @@ Multiline Strings:
     Template literals allows multiline strings.
 
 Ex:
-    let text=`The quick brown fox jumps over the lazy dog`;
-    console.log(text)
+    let text3=`The quick brown fox jumps over the lazy dog`;
+    console.log(text3)
 
 Variable Substitutions:
 Template literals allow variables in strings. 
@@ -157,3 +157,5 @@ log()
 table()
 time()
 timeEnd()
+trace()
+warn()

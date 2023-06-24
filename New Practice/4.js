@@ -13,8 +13,12 @@ let lastname = "Padamanabhan";
 let text = `Welcome ${firstname},${lastname}!`;
 console.log(text); //Welcome KishoreKumar,Padamanabhan!
 
-let text1 =`Pushpendra`;
-console.log(text1) //Pushpendra
+let text1 = `Pushpendra`;
+console.log(text1);//Pushpendra
 
-let text2 =`He's often called "Push"`;
-console.log(text2) //He's often called "Push"
+let text2 = `He's often called "Push"`;
+console.log(text2);//He's often called "Push"
+
+
+let text3 = `The quick brown fox jumps over the lazy dog`;
+console.log(text3);//The quick brown fox jumps over the lazy dog
