@@ -163,3 +163,5 @@ warn()
 JS Array Objects:
 concat(), constructor, copyWithin(), entries(), every(), fill(), filter(), find() 
 findIndex(), foreach(), from(), includes(), indexOf(), isArray(), join(), keys()
+lastIndexOf(), length(), map(), pop(), prototype, push(), reduce(), reduceRight()
+reverse(), shift(), slice(), some(), sort(), splice(), toString(), unshift(), valueOf()
