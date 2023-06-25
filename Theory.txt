@@ -159,3 +159,7 @@ time()
 timeEnd()
 trace()
 warn()
+
+JS Array Objects:
+concat(), constructor, copyWithin(), entries(), every(), fill(), filter(), find() 
+findIndex(), foreach(), from(), includes(), indexOf(), isArray(), join(), keys()
