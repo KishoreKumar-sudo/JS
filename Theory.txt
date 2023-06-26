@@ -165,3 +165,10 @@ concat(), constructor, copyWithin(), entries(), every(), fill(), filter(), find(
 findIndex(), foreach(), from(), includes(), indexOf(), isArray(), join(), keys()
 lastIndexOf(), length(), map(), pop(), prototype, push(), reduce(), reduceRight()
 reverse(), shift(), slice(), some(), sort(), splice(), toString(), unshift(), valueOf()
+
+JSON Strings            
+    {"name":"Kish"}         
+JSON Arrays
+    {"employees":["Kish","Anna","Tamil"]}
+JSON Numbers
+    {"age":26}
