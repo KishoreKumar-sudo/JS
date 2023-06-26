@@ -172,3 +172,9 @@ JSON Arrays
     {"employees":["Kish","Anna","Tamil"]}
 JSON Numbers
     {"age":26}
+JSON Booleans
+    {"sale":true}
+JSON Null
+    {"middlename":null}
+JSON Objects
+    {"employee":{"name":"Kish","age":20,"city":"NewYork"}}
