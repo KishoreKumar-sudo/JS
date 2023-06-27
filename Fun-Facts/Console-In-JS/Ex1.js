@@ -17,10 +17,18 @@ console.log(tipz); //PushpaRule
 
 //warn()
 let method = "This is a warning!";
-console.warn(method);
+console.warn(method); //This is a warning!
 
 //table() => Array
 console.table(["HTML", "CSS", "JAVASCRIPT"]);
 
+/* ┌─────────┬──────────────┐
+│ (index) │    Values    │
+├─────────┼──────────────┤
+│    0    │    'HTML'    │
+│    1    │    'CSS'     │
+│    2    │ 'JAVASCRIPT' │
+└─────────┴──────────────┘ */
+
 //table() => Object
-({fName:"Kishore",lName:"Kumar"});
+({ fName: "Kishore", lName: "Kumar" });
