@@ -1,0 +1,7 @@
+TS
+Community:Compact & expanding
+Ecosystem:Robust & user-friendly
+
+JS
+Community:Large & evolving
+Ecosystem:Easy & Adaptable
