@@ -3,9 +3,11 @@ Community:Compact & expanding
 Ecosystem:Robust & user-friendly
 Pathway:Scripting competency is needed
 Keying: Type safe with both static & dynamic typing
+Compilation:It requries
 
 JS
 Community:Large & evolving
 Ecosystem:Easy & Adaptable
 Pathway:Effortless to comprehend
 Keying:Nt strict in type & dynamically executed
+Compilation:Nt requries
