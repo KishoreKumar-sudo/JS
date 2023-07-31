@@ -1,3 +1,4 @@
 1xx - Information
 100 - Continue
-
+101 - Switching
+103 - Checkpoint
