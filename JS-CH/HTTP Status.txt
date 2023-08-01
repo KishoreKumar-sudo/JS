@@ -2,3 +2,8 @@
 100 - Continue
 101 - Switching
 103 - Checkpoint
+
+2xx - Successful
+200 - 
+201 - Created
+200 - 
