@@ -4,6 +4,6 @@
 103 - Checkpoint
 
 2xx - Successful
-200 - 
+200 - Ok
 201 - Created
-200 - 
+202 - Accepted
