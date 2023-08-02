@@ -7,3 +7,8 @@
 200 - Ok
 201 - Created
 202 - Accepted
+
+3xx - Redirection
+302 -
+303 -
+304 -
