@@ -9,6 +9,6 @@
 202 - Accepted
 
 3xx - Redirection
-302 -
-303 -
-304 -
+302 - Found
+303 - See Other
+304 - Not Modified
