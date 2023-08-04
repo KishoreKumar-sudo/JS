@@ -15,3 +15,5 @@
 306 - Switch Proxy
 307 - Temp Redirect
 
+4xx - Client Error
+400 - Bad Request
