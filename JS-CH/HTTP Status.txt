@@ -26,3 +26,4 @@
 
 5xx - Server Error
 500 - Server Error
+502 - BAd Gateway
