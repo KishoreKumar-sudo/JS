@@ -3,4 +3,5 @@ Semantic HTML
 CSS Basics (Selectors, Cascading, Inheritance, Units)
 CSS Layout (display, position, float, flexbox)
 CSS Architecture (BEM, SMACSS, OOCSS)
-Responsive 
+Responsive Design
+CSS preprocessors(SASS, LESS)
