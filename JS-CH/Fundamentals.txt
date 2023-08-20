@@ -5,3 +5,6 @@ CSS Layout (display, position, float, flexbox)
 CSS Architecture (BEM, SMACSS, OOCSS)
 Responsive Design
 CSS preprocessors(SASS, LESS)
+
+JavaScript Fundamentals:
+Variables, Datatypes, Functions, Scope
