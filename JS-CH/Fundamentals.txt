@@ -9,3 +9,4 @@ CSS preprocessors(SASS, LESS)
 JavaScript Fundamentals:
 Variables, Datatypes, Functions, Scope
 Asynchronous programmming (Promises, Async/Await)
+DOM Manipulation
