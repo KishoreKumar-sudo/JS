@@ -10,3 +10,4 @@ JavaScript Fundamentals:
 Variables, Datatypes, Functions, Scope
 Asynchronous programmming (Promises, Async/Await)
 DOM Manipulation
+Event Handling
