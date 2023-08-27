@@ -12,4 +12,4 @@ Asynchronous programmming (Promises, Async/Await)
 DOM Manipulation
 Event Handling
 Debugging tools(Chrome DevvTools)
-ES6+ features(let,const,etc.)
+ES6+ features(let, const, arrow functions, template literals, destructuring, etc.)
