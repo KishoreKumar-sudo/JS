@@ -9,7 +9,7 @@ CSS preprocessors(SASS, LESS)
 JavaScript Fundamentals:
 Variables, Datatypes, Functions, Scope
 Asynchronous programmming (Promises, Async/Await)
+ES6+ features(let, const, arrow functions, template literals, destructuring, etc.)
 DOM Manipulation
 Event Handling
 Debugging tools(Chrome DevvTools)
-ES6+ features(let, const, arrow functions, template literals, destructuring, etc.)
