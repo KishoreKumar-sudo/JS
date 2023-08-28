@@ -13,3 +13,10 @@ ES6+ features(let, const, arrow functions, template literals, destructuring, etc
 DOM Manipulation
 Event Handling
 Debugging tools(Chrome DevTools)
+
+JS Frameworks & Libraries:
+React JS,
+Angular JS or Vue Js,
+Redux or MobX
+Router(React or Angular Router)
+Testing frameworks(Jest, Mocha, Chai, etc.)
