@@ -20,3 +20,6 @@ Angular JS or Vue Js,
 Redux or MobX
 Router(React or Angular Router)
 Testing frameworks(Jest, Mocha, Chai, etc.)
+
+Build Tools & Workflows:
+Webpack, Babel, NPM Scripts, Git, CI/CD, Command line tools
