@@ -22,4 +22,9 @@ Router(React or Angular Router)
 Testing frameworks(Jest, Mocha, Chai, etc.)
 
 Build Tools & Workflows:
-Webpack, Babel, NPM Scripts, Git, Continuous Integration/Continuous Delivery (CI/CD), Command line tools(Terminal, Bash)
+Webpack,
+Babel,
+NPM Scripts,
+Git, 
+Continuous Integration/Continuous Delivery (CI/CD),
+Command line tools(Terminal, Bash)
