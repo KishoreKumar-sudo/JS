@@ -1,0 +1,2 @@
+A Falsy value is something which evaluates to FALSE, for instance when checking a variable.
+There are only 6 falsy values in JS:undefined, null, NaN, 0,""(empty string),false.
