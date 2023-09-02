@@ -32,3 +32,5 @@ Command line tools(Terminal, Bash)
 Additiona Front-End Technologies:
 Web components
 Web accessibility(WCAG)
+Progressive web apps(PWA)
+Server-side rendering(SSR)
