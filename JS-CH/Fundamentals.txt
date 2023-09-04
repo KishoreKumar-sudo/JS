@@ -29,7 +29,7 @@ Git,
 Continuous Integration/Continuous Delivery (CI/CD),
 Command line tools(Terminal, Bash)
 
-Additiona Front-End Technologies:
+Additional Front-End Technologies:
 Web components
 Web accessibility(WCAG)
 Progressive web apps(PWA)
