@@ -36,3 +36,7 @@ Progressive web apps(PWA)
 Server-side rendering(SSR)
 GraphQL
 CSS-in-JS
+
+Soft Skills & Carrer Development:
+Communication Skills 
+Time Management
