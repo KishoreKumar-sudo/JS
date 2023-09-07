@@ -40,3 +40,5 @@ CSS-in-JS
 Soft Skills & Carrer Development:
 Communication Skills 
 Time Management
+Teamwork
+Project Management
