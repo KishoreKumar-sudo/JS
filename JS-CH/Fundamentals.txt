@@ -1,3 +1,8 @@
+Improve Yourself as a Developer:
+Code Daily, Learn from others
+
+
+
 HTML & CSS:
 Semantic HTML
 CSS Basics (Selectors, Cascading, Inheritance, Units)
