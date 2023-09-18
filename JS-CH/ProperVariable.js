@@ -10,6 +10,7 @@ console.log(videos)
 
 //how to generate compact numbers?
 const formatter =Intl.NumberFormat('en',{notation:'compact'});
-formatter.format(123);
-formatter.format(1234);
-
+formatter.format(123); 
+formatter.format(1234); 
+formatter.format(1235678);
+formatter.format(1235678901);
