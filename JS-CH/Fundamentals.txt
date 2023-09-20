@@ -1,5 +1,10 @@
 Improve Yourself as a Developer:
-Code Daily, Learn from others, Teach others, Take Notes, Make Projects, Use Github for push code, Make plan, Spend time in learning, Be active in tech community, Read Docs/ books, Be Curious
+Code Daily, Learn from others,
+Teach others, Take Notes,
+ Make Projects, Use Github for push code, 
+ Make plan, Spend time in learning, 
+ Be active in tech community, 
+ Read Docs/ books & Be Curious about ur field of study
 
 HTML & CSS:
 Semantic HTML
