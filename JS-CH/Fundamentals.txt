@@ -1,7 +1,9 @@
 Are you a good developer
 can u solve problems on ur own?
-    A Good Developer needs to have an ability to identify problems & create solutions.
+    A good Developer needs to have an ability to identify problems & create solutions.
 
+can u talk about ur expertise confidently?
+    A good Developer needs to be able to confidently  
 Improve Yourself as a Developer:
 Code Daily, Learn from others,
 Teach others, Take Notes,
