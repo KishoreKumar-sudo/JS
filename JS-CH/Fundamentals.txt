@@ -1,14 +1,14 @@
-Are you a good developer
+Are you a good developer:
+
 Can u solve problems on ur own?
     A good Developer needs to have an ability to identify problems & create solutions.
-
 Can u talk about ur expertise confidently?
     A good Developer needs to be able to confidently talk about their abilities & line of workflows.
-
 Can u work to a brief/specification?
     A good developer needs to be able to stick to a defined brief when working on a project.
 
 Improve Yourself as a Developer:
+
 Code Daily, Learn from others,
 Teach others, Take Notes,
  Make Projects, Use Github for push code, 
