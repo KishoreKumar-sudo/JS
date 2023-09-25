@@ -6,6 +6,8 @@ Can u talk about ur expertise confidently?
     A good Developer needs to be able to confidently talk about their abilities & line of workflows.
 Can u work to a brief/specification?
     A good developer needs to be able to stick to a defined brief when working on a project.
+Are u good @ managing workloads?
+    A good developer needs to be able to manage their schedule & ensure that they stay on track with work
 
 Improve Yourself as a Developer:
 
