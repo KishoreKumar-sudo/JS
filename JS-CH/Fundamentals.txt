@@ -8,7 +8,8 @@ Can u work to a brief/specification?
     A good developer needs to be able to stick to a defined brief when working on a project.
 Are u good @ managing workloads?
     A good developer needs to be able to manage their schedule & ensure that they stay on track with work
-
+Are you good @ meeting deadlines?
+    A good developer needs to be able to deliver work bfr a deadline.
 Improve Yourself as a Developer:
 
 Code Daily, Learn from others,
