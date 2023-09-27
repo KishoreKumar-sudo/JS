@@ -10,6 +10,9 @@ Are u good @ managing workloads?
     A good developer needs to be able to manage their schedule & ensure that they stay on track with work
 Are you good @ meeting deadlines?
     A good developer needs to be able to deliver work bfr a deadline.
+Notice how none of these questions mention code?
+    That's bcz a good developer is some1 who is able to work independently with confidence.
+
 Improve Yourself as a Developer:
 
 Code Daily, Learn from others,
