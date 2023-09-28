@@ -12,6 +12,7 @@ Are you good @ meeting deadlines?
     A good developer needs to be able to deliver work bfr a deadline.
 Notice how none of these questions mention code?
     That's bcz a good developer is some1 who is able to work independently with confidence.
+    It's easy to learn to code, it's hard to become a great developer! 
 
 Improve Yourself as a Developer:
 
