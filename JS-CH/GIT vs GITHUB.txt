@@ -15,3 +15,7 @@ Hosting service for git repositories
 Hosted on the web
 Focuses on centralized source code hoisting
 It has a built-in user management feature
+
+Git Notes:
+Create ur frst repository, then add & commit files
+Clone a repository  
