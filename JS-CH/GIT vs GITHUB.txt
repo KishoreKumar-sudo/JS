@@ -19,3 +19,5 @@ It has a built-in user management feature
 Git Notes:
 Create ur frst repository, then add & commit files
 Clone a repository  
+Sharing the code 
+Setting ur user name & email id
