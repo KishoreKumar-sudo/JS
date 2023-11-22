@@ -16,8 +16,10 @@ Hosted on the web
 Focuses on centralized source code hoisting
 It has a built-in user management feature
 
-Git Notes:
+Getting started with Git:
 Create ur frst repository, then add & commit files
 Clone a repository  
 Sharing the code 
 Setting ur user name & email id
+Setting up the upstream remote
+Learning about a command  
