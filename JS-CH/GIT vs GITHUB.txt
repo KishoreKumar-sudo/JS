@@ -23,3 +23,5 @@ Sharing the code
 Setting ur user name & email id
 Setting up the upstream remote
 Learning about a command  
+Set up SSH for Git
+Git installation 
