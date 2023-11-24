@@ -25,3 +25,10 @@ Setting up the upstream remote
 Learning about a command  
 Set up SSH for Git
 Git installation 
+
+Browing the history:
+"Regular" Git Log
+Prettier log
+Colorize Logs
+Online log
+Log search
