@@ -32,3 +32,5 @@ Prettier log
 Colorize Logs
 Online log
 Log search
+List all coontributions grouped by author name
+Searching commit string in git log
