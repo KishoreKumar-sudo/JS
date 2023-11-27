@@ -37,3 +37,5 @@ Searching commit string in git log
 Log for a range of lines within a file
 Filter logs
 Log with changes inline
+Log showing commited files
+Show the contents of a single commit
