@@ -41,3 +41,7 @@ Log showing commited files
 Show the contents of a single commit
 Git Log Between Two Branches
 One line showing commiter name and time since commit.
+
+Working with Remotes
+Deleting a Remote Branch
+Changing Git Remote URL
