@@ -45,3 +45,5 @@ One line showing commiter name and time since commit.
 Working with Remotes
 Deleting a Remote Branch
 Changing Git Remote URL
+List Extending Remotes
+Removing Local Copies of Deleted Remote Branches
