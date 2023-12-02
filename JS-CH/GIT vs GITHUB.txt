@@ -47,3 +47,6 @@ Deleting a Remote Branch
 Changing Git Remote URL
 List Extending Remotes
 Removing Local Copies of Deleted Remote Branches
+Updating from Upstream Repository
+Is-remote
+Adding a New Remote Repository
