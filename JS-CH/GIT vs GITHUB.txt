@@ -53,3 +53,5 @@ Adding a New Remote Repository
 Set Upstream on a New Branch
 Getting Started 
 Renaming a Remote
+Show information about a Specific Remote 
+Set the URL for a Specific Remote
