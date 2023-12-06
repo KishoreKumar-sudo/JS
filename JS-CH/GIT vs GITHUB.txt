@@ -26,7 +26,7 @@ Learning about a command
 Set up SSH for Git
 Git installation 
 
-Browing the history:
+    Browing the history:
 "Regular" Git Log
 Prettier log
 Colorize Logs
@@ -57,3 +57,7 @@ Show information about a Specific Remote
 Set the URL for a Specific Remote
 Get the URL for a Specific Remote
 Changing a Remote Repository.
+
+    Staging
+Stagging All Changes to Files
+Unstage a file that contains changes  
