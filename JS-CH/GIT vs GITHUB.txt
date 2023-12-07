@@ -60,4 +60,7 @@ Changing a Remote Repository.
 
     Staging
 Stagging All Changes to Files
-Unstage a file that contains changes  
+Unstage a file that contains changes
+Add changes by hunk
+Interctive add 
+Show Staged Changes 
