@@ -63,4 +63,6 @@ Stagging All Changes to Files
 Unstage a file that contains changes
 Add changes by hunk
 Interctive add 
-Show Staged Changes 
+Show Staged Changes
+Staging A Single File
+Stage deleted files  
