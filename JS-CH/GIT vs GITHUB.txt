@@ -65,4 +65,9 @@ Add changes by hunk
 Interctive add 
 Show Staged Changes
 Staging A Single File
-Stage deleted files  
+Stage deleted files 
+
+    Ignoring Files and Folders
+Ignoring files and directories with a gitignore file
+Checking if a file is Ignored
+Exceptions in a gitignore file
