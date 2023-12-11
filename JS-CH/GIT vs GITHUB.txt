@@ -73,4 +73,6 @@ Checking if a file is Ignored
 Exceptions in a gitignore file
 A global gitignore file 
 Ignore files that have already been commited to a Git respository
-Ignore files locally without commiting ignore rules  
+Ignore files locally without commiting ignore rules
+Ignoring subsequent changes to a file (without removing it)
+Ignoring a file in any directory
