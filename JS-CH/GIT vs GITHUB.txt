@@ -76,3 +76,6 @@ Ignore files that have already been commited to a Git respository
 Ignore files locally without commiting ignore rules
 Ignoring subsequent changes to a file (without removing it)
 Ignoring a file in any directory
+Prefilled gitignore Templates
+Ignoring files in subfolders (Multiple ignore files)
+
