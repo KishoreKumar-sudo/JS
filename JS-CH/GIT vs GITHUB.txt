@@ -78,4 +78,6 @@ Ignoring subsequent changes to a file (without removing it)
 Ignoring a file in any directory
 Prefilled gitignore Templates
 Ignoring files in subfolders (Multiple ignore files)
+Create an Empty Folder
+Finding files ignored by gitignore
 
