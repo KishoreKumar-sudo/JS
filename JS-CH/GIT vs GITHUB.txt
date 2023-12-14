@@ -65,7 +65,7 @@ Add changes by hunk
 Interctive add 
 Show Staged Changes
 Staging A Single File
-Stage deleted files 
+Stage deleted files.
 
     Ignoring Files and Folders
 Ignoring files and directories with a gitignore file
@@ -80,4 +80,6 @@ Prefilled gitignore Templates
 Ignoring files in subfolders (Multiple ignore files)
 Create an Empty Folder
 Finding files ignored by gitignore
+Ignoring only part part of a file[stub]
+Ignoring changes in tracked files[stub]
 
