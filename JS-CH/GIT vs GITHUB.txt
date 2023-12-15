@@ -82,4 +82,5 @@ Create an Empty Folder
 Finding files ignored by gitignore
 Ignoring only part part of a file[stub]
 Ignoring changes in tracked files[stub]
+Clear already commited files, but included in gitignore.
 
