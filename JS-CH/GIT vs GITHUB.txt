@@ -84,3 +84,9 @@ Ignoring only part part of a file[stub]
 Ignoring changes in tracked files[stub]
 Clear already commited files, but included in gitignore.
 
+Git Diff
+Show differences in working branch
+Show changes between two commits
+Show differences for staged files
+
+
