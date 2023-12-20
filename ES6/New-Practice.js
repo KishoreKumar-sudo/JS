@@ -4,11 +4,16 @@
 function addition(a, b) {
     return a + b;
 }
-//ES6 arrow function
+// ES6 arrow function
 // const addition = (a, b) => a + b;
 
-//Template Literals allow embedding expressions inside strings,providing a cleaner & more readable way to concatenate strings
+// Template Literals 
+// Allows embedding expressions inside strings,providing a cleaner & more readable way to concatenate strings
 const name = 'Jack';
 const greeting = `Hello, ${name}!`;
 
 //console.log(greeting); //Hello, Jack!
+
+// Destructing Assignment
+//Simplifies the extraction of values from objects or arrays into individual variables.
+const person={name:'Atlee', age:37};
