@@ -19,3 +19,7 @@ const person = { name: 'Atlee', age: 37 };
 const { name, age } = person;
 console.log('Name:', name, 'Age:', age); //Name: Atlee Age: 37
 
+    Spread Operator
+It allows for the expansion of elements, making it handy for creating new arrays or objects based on existing ones.
+
+
