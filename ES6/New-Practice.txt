@@ -31,4 +31,10 @@ console.log('newNumbers:', newNumbers); //newNumbers: [ 1, 2, 3, 4, 5 ]
 
     Rest Parameter
 Allows functions to accept an indefinite number of arguments as an array, simplifying parameter handling.
- 
+
+ const sum = (...numbers) => {
+    return numbers.reduce((acc, num) => {
+        return acc + num;
+    }, 0);
+};
+console.log(sum(1, 2, 3)); //6
