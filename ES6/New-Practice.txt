@@ -41,3 +41,14 @@ console.log(sum(1, 2, 3)); //6
 
     Async/await
 It's a syntaxfor handling asynchronous code more concisely, providing a cleaner alternative to working with promises.
+
+const API = 'https://api.example.com';
+const fetchData = async () => {
+    try {
+        const result = await fetch(`${API}/data`);
+        const data = await result.json();
+        console.log(data);
+    } catch (error) {
+        console.error(error);
+    }
+};
