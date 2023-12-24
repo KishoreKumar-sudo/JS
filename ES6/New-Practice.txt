@@ -52,3 +52,7 @@ const fetchData = async () => {
         console.error(error);
     }
 };
+
+    Map & Set 
+Map and Set are new data structures introduced in ES6.
+Map is an ordered collection of key-value pairs, Set is a collection of unique values.  
