@@ -70,5 +70,12 @@ unique.forEach(number=>console.log(number));
 // 3
 
     Default Parameters
-It provide values for function parameters if none are provided, improving flexibility and reducing the need for explicit checks
- 
+It provide values for function parameters if none are provided, improving flexibility and reducing the need for explicit checks.
+
+const greet = (name = 'Guest') => {
+    return `Hello, ${name}!`;
+};
+
+console.log(greet());//Hello, Guest!
+
+console.log(greet('John')); //Hello, John!
