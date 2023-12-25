@@ -68,3 +68,7 @@ unique.forEach(number=>console.log(number));
 // 1
 // 2
 // 3
+
+    Default Parameters
+It provide values for function parameters if none are provided, improving flexibility and reducing the need for explicit checks
+ 
