@@ -82,3 +82,9 @@ console.log(greet('John')); //Hello, John!
 
     Modules
 ES6 modules provide a clean and organized way to strucutre and import/export code, improving maintainability and reusability.
+
+//Exporting module
+export const myFunction = () => {...};
+
+//Importing module
+import { myFunction } from './myModule';
