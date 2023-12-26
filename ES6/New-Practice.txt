@@ -79,3 +79,6 @@ const greet = (name = 'Guest') => {
 console.log(greet());//Hello, Guest!
 
 console.log(greet('John')); //Hello, John!
+
+    Modules
+ES6 modules provide a clean and organized way to strucutre and import/export code, improving maintainability and reusability.
