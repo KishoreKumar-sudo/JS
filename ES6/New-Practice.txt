@@ -88,3 +88,6 @@ export const myFunction = () => {...};
 
 //Importing module
 import { myFunction } from './myModule';
+
+    Map Method
+The map method in javascript is used to create a new array by applying a provided function to each element of an existing array.
