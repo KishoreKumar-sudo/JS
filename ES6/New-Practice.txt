@@ -99,3 +99,7 @@ console.log(doubled); //[ 2, 4, 6, 8, 10 ]
 
     Filter Method
 This mtd is used to create a new array containing only the elements that satisfy a specified condition.
+const numbers = [1, 2, 3, 4, 5];
+const evens = numbers.filter(num => num % 2 === 0);
+
+console.log(evens); //[ 2, 4 ]
