@@ -106,3 +106,7 @@ console.log(evens); //[ 2, 4 ]
 
     Reduce Method
 It's used to accumulate the elements of an array into a single value.
+const data = [1, 2, 3, 4, 5];
+const sum = data.reduce((acc, num) => acc + num, 0);
+
+console.log(sum);//15
