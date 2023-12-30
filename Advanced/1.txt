@@ -6,3 +6,6 @@ if (thristy=true) {
 } else {
     drink='no'
 }
+// Be lyk a Pro
+let thristy = false;
+let drink = thristy ? 'yes' : 'no';
