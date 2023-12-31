@@ -1,4 +1,4 @@
-// Use Ternary operator
+    Use Ternary operator
 let thristy =false;
 let drink;
 if (thristy=true) {
@@ -6,6 +6,13 @@ if (thristy=true) {
 } else {
     drink='no'
 }
-// Be lyk a Pro
+
+    Be lyk a Pro
 let thristy = false;
 let drink = thristy ? 'yes' : 'no';
+
+    Populating an array:
+for(let i=0;i<arraySize;i++){
+    filledArray[i]='hello';
+}
+
