@@ -11,8 +11,10 @@ if (thristy=true) {
 let thristy = false;
 let drink = thristy ? 'yes' : 'no';
 
-    Populating an array:
-for(let i=0;i<arraySize;i++){
-    filledArray[i]='hello';
+Populating an array:
+for (let i = 0; i < arraySize; i++) {
+    filledArray[i] = 'hello';
 }
+
+letfilledArray = Array.from({ length: 10 }, () => 'hello')
 
