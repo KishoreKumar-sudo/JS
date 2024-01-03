@@ -37,7 +37,7 @@ Boolean(0); //false
 Boolean(""); //false
 Boolean(undefined) //false
 
-2.Using double negotation!! to achieve the same result.
+2.Using double notation!! to achieve the same result, while single notation gives the negative result.
 console.log(!!true); //true
 console.log(!!1); //true
 console.log(!!"hello"); //true

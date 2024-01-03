@@ -1,4 +1,4 @@
-console.log(!!true); //true
+console.log(!true); //true
 console.log(!!1); //true
 console.log(!!"hello"); //true
 
