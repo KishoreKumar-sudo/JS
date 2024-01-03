@@ -36,3 +36,12 @@ Boolean(false); //false
 Boolean(0); //false
 Boolean(""); //false
 Boolean(undefined) //false
+
+2.Using double negotation!! to achieve the same result.
+console.log(!!true);
+console.log(!!1);
+console.log(11"hello");
+
+console.log(!!false);
+console.log(!!"");
+console.log(!!null);
