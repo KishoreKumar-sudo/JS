@@ -38,10 +38,10 @@ Boolean(""); //false
 Boolean(undefined) //false
 
 2.Using double negotation!! to achieve the same result.
-console.log(!!true);
-console.log(!!1);
-console.log(11"hello");
+console.log(!!true); //true
+console.log(!!1); //true
+console.log(!!"hello"); //true
 
-console.log(!!false);
-console.log(!!"");
-console.log(!!null);
+console.log(!!false); //false
+console.log(!!""); //false
+console.log(!!null); //false
