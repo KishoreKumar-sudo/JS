@@ -48,3 +48,11 @@ console.log(!!null); //false
 
     Objects to Arrays
 1.Object.keys();
+2.Object.values();
+3.Object.entries();
+
+const obj={
+    key1:'value1'
+    key2:'value2'
+    key3:'value3'
+}
