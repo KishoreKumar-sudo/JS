@@ -47,7 +47,7 @@ console.log(!!""); //false
 console.log(!!null); //false
 
     Objects to Arrays
-1.Object.keys();
+1.Object.keys();This method gets all the keys from an object & puts htem into an array.
 2.Object.values();
 3.Object.entries();
 
@@ -56,3 +56,5 @@ const obj={
     key2:'value2'
     key3:'value3'
 }
+
+const keysArray
