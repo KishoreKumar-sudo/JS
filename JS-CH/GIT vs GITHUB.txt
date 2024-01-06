@@ -88,5 +88,8 @@ Git Diff
 Show differences in working branch
 Show changes between two commits
 Show differences for staged files
+Comparing branches 
+Show both staged & un staged changes 
+show d/f's for a specific files or directory
 
 
