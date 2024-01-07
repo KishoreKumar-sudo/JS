@@ -90,6 +90,7 @@ Show changes between two commits
 Show differences for staged files
 Comparing branches 
 Show both staged & un staged changes 
-show d/f's for a specific files or directory
-
+show d/f's for a specific file or directory
+Viewing a word-diff for long lines
+Show d/f's between current and latest version 
 
