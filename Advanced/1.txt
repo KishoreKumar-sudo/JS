@@ -49,7 +49,7 @@ console.log(!!null); //false
     Objects to Arrays
 1.Object.keys();This method gets all the keys from an object & puts them into an array.
 2.Object.values();This method retrieves all the values from an object and puts them into an array.
-3.Object.entries();
+3.Object.entries();This method combines both keys and values as pairs, creating arrays of pairs from an object's properties.
 
 const obj={
     key1:'value1'
