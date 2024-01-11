@@ -4,4 +4,4 @@ const obj = {
     key3:'value3'
 }
 
-
+const valuesArray=Object.values(obj)
