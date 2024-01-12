@@ -58,7 +58,9 @@ const obj={
 }
 
 const keysArray = Object.keys(obj);
-const valuesArray=Object.values(obj)
+const valuesArray=Object.values(obj);
+const entriesArray=Object.entries(obj);
 
 console.log(keysArray); //[ 'key1', 'key2', 'key3']
 console.log(valuesArray); //[ 'value1', 'value2', 'value3']
+console.log(entriesArray); //[ [ 'key1', 'value1' ], [ 'key2', 'value2' ], [ 'key3', 'value3' ] ]
