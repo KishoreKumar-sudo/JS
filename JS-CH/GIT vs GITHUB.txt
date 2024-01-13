@@ -93,4 +93,5 @@ Show both staged & un staged changes
 show d/f's for a specific file or directory
 Viewing a word-diff for long lines
 Show d/f's between current and latest version 
-
+Produce a patch-compatible diff
+D/f between two commit or branch
