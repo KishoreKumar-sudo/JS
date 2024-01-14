@@ -95,3 +95,5 @@ Viewing a word-diff for long lines
 Show d/f's between current and latest version 
 Produce a patch-compatible diff
 D/f between two commit or branch
+Using meld to see all modifications in the working directory
+D/f UTF-16 encoded text and binary plist files.
