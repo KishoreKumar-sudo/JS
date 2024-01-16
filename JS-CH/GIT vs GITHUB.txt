@@ -101,4 +101,5 @@ D/f UTF-16 encoded text and binary plist files.
     Undoing 
 Return to a previous commit 
 Undoing Changes
-
+Using reflog
+Undoing merges
