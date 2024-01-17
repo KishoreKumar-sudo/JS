@@ -103,3 +103,5 @@ Return to a previous commit
 Undoing Changes
 Using reflog
 Undoing merges
+Revert some existing commits 
+Undo/Redo a series of commits 
