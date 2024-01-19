@@ -109,3 +109,5 @@ Undo/Redo a series of commits
     Merging
 Automatic merging 
 Finding all branches with no merged changes 
+Aborting a merge 
+Merge with a commit
