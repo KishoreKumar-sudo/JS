@@ -111,3 +111,5 @@ Automatic merging
 Finding all branches with no merged changes 
 Aborting a merge 
 Merge with a commit
+Keep changes from only one side of a merge
+Merge ine branch into another 
