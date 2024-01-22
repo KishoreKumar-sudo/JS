@@ -117,3 +117,5 @@ Merge ine branch into another.
     Submodules
 Cloning a git repository having submodules
 Updating a submodule
+Adding a submodule
+Setting a submodule to follow a branch
