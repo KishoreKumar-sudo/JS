@@ -121,3 +121,7 @@ Adding a submodule
 Setting a submodule to follow a branch
 Moving a submodule
 Removing a submodule
+
+    Commmiting
+Stage and commit changes
+Good commit messages
