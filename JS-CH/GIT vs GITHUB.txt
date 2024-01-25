@@ -125,3 +125,5 @@ Removing a submodule
     Commmiting
 Stage and commit changes
 Good commit messages
+Amending a commit 
+Committing without opening an editor
