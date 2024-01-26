@@ -127,3 +127,5 @@ Stage and commit changes
 Good commit messages
 Amending a commit 
 Committing without opening an editor
+Committing changes directly
+Selecting which lines should be staged for committing 
