@@ -129,3 +129,5 @@ Amending a commit
 Committing without opening an editor
 Committing changes directly
 Selecting which lines should be staged for committing 
+Creating an empty commit 
+Committing on behalf of someone else
