@@ -131,3 +131,5 @@ Committing changes directly
 Selecting which lines should be staged for committing 
 Creating an empty commit 
 Committing on behalf of someone else
+GPG signing commits
+Committing changes in specific files
