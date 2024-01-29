@@ -133,3 +133,5 @@ Creating an empty commit
 Committing on behalf of someone else
 GPG signing commits
 Committing changes in specific files
+Committing at a specific date
+Amending the time of a commit 
