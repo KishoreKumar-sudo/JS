@@ -140,3 +140,5 @@ Amending the author of a commit
     Aliases
 Simple aliases 
 List/search existing aliases
+Advanced aliases
+Temporaily ignore tracked files
