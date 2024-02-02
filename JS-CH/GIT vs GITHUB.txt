@@ -141,4 +141,6 @@ Amending the author of a commit
 Simple aliases 
 List/search existing aliases
 Advanced aliases
-Temporaily ignore tracked files
+Temporarily ignore tracked files
+Show pretty log with branch graph
+See which files are being ignored by your gitignore configuration
