@@ -144,3 +144,5 @@ Advanced aliases
 Temporarily ignore tracked files
 Show pretty log with branch graph
 See which files are being ignored by your gitignore configuration
+Updating code while keeping a linear history
+Unstage staged files
