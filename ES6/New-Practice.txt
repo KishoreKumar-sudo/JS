@@ -114,6 +114,13 @@ console.log(sum);//15
     Boolean Casting
 Recommended mtd according to Airbnb's style guide.
     Old
-const age = Boolean(input.value)
+const age = boolean(input.value);
     New
-const age =!!input.value
+const age = !!input.value;
+
+    Optional Chaining
+Reading deeply nested property without hassle of checking each time of its validity.
+    Old
+let isValid = {user} => user && user.address && user.address.zipcode;
+    New
+let isValid= {address} => user?.address?.zipcode;
