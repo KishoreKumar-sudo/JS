@@ -124,3 +124,9 @@ Reading deeply nested property without hassle of checking each time of its valid
 let isValid = {user} => user && user.address && user.address.zipcode;
     New
 let isValid= {address} => user?.address?.zipcode;
+
+    Nullish Coalescing 
+Returns the right hand when the left-hand operand is null or undefined 
+ const tap = getProductById(1);
+ const product = tap != null && tmp != undefined ? : tmp :unknown;
+  
