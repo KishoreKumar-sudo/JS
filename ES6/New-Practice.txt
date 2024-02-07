@@ -136,9 +136,13 @@ const product = getProductById(1) ?? unknown;
     Default Params
 Intuitive & straight forward default values for fu cntion parameter 
     Old
-const createUser = { name, email } => {
+const createUser = ( name, email ) => {
     const user = {
         email,
         name:name ?? 'Unknown',
     };
 };
+    New
+const createUser = (name = 'Unknown', email)=>{
+    const user ={email, name};
+}; 
