@@ -132,3 +132,13 @@ Returns the right hand when the left-hand operand is null or undefined
  const product = tap != null && tmp != undefined ? : tmp :unknown;
     New
 const product = getProductById(1) ?? unknown;
+
+    Default Params
+Intuitive & straight forward default values for fu cntion parameter 
+    Old
+const createUser = { name, email } => {
+    const user = {
+        email,
+        name:name ?? 'Unknown',
+    };
+};
