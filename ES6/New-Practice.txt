@@ -143,6 +143,9 @@ const createUser = ( name, email ) => {
     };
 };
     New
-const createUser = (name = 'Unknown', email)=>{
+const createUser = (name = 'Unknown', email) => {
     const user ={email, name};
 }; 
+
+    Spread Operator
+Merge two object into the one using this cool syntax
