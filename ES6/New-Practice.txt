@@ -149,3 +149,6 @@ const createUser = (name = 'Unknown', email) => {
 
     Spread Operator
 Merge two object into the one using this cool syntax
+    Old
+const details = { name: "Kishor Kumar"}
+const stats = { games: 7, points: 24}
